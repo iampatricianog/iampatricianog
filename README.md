@@ -25,7 +25,8 @@
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;Information+Systems+Graduate;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -60,7 +61,7 @@
 <br>
 <br>
 
-<!-- <details align="center">  
+<details align="center">  
   <summary>
       <samp>
         <b>More Info</b>
@@ -69,7 +70,6 @@
   
 <br>
 
-##
 
 <br>
 
@@ -82,12 +82,13 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/pathnog_/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/patricia-nogueira-lima/)
   
 </div>
 
+<!--
 <div align="center">
   <p align="center">
       <samp>
@@ -97,9 +98,14 @@
         <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
       </samp>
   </p>
-</div>
--->
+</div> -->
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iampatricianog/iampatricianog/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iampatricianog/iampatricianog/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/iampatricianog/iampatricianog/output/snake.svg">
+</picture>
 
 
 <br>
@@ -110,8 +116,8 @@
 
 <br>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iampatricianog&bg_color=000000&color=ff69b4&line=ff69b4&point=000000c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iampatricianog&bg_color=000000&color=ff69b4&line=ff69b4&point=000000c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!--
 ### Main skills:
